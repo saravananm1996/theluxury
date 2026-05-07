@@ -320,7 +320,7 @@
                             </div><!-- End .popup-menu -->
 
                             <a href="{{ route('home') }}" class="logo">
-                                <img src="assets/images/logo-white.png" alt="Porto Logo">
+                                <img src="assets/images/logo-luxury2.png" alt="Porto Logo">
                             </a>
                         </div><!-- End .header-left -->
 
